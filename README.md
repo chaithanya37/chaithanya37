@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **chaithanyakanipakam37@gmail.com**
 
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1nRlZVLfDmwFFWVzqphbjy6cav4Op7iYT/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1OyrNtdCU0IlSxaq2scpkrsyTNW0Mljj0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
