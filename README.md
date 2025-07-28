@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaithanya Kanipakam</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-- 🌱 I’m currently learning **Devops , DSA , MERN**
+- 🌱 I’m currently learning **Devops , DSA**
 
 - 📫 How to reach me **chaithanyakanipakam37@gmail.com**
 
